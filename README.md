@@ -29,7 +29,7 @@ NanoClaw provides that same core functionality, but in a codebase small enough t
 
 ```bash
 git clone https://github.com/qwibitai/nanoclaw.git
-cd NanoClaw
+cd nanoclaw
 claude
 ```
 
